@@ -39,8 +39,11 @@
 
 ## 📊 GitHub Statistics
 
-[![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=buefy&hide_border=true)](https://github.com/HRITHIK-SANKAR-R)
-![Trophies](https://github-profile-trophy.vercel.app/?username=HRITHIK-SANKAR-R&theme=darkhub&column=7)
+<a href="https://github.com/HRITHIK-SANKAR-R">
+  <img src="https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=buefy&hide_border=true" alt="Hrithik's GitHub stats" />
+</a>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=HRITHIK-SANKAR-R&theme=darkhub&column=7" alt="Trophies" />
 
 <!-- @HRITHIK-SANKAR-R - ## 😎 My Contribution -->
 
