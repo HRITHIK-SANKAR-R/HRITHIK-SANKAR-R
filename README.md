@@ -1,9 +1,16 @@
-# 🙋‍♂️ About Me  
+# 🙋‍♂️ About Me
 <!-- @HRITHIK-SANKAR-R -->
-- 🌱 **Learning:** Trying to make C++, Python, and AI understand me so far, Python seems to be the only one listening.  
-- 👨‍💻 **Projects:** I write code. Sometimes, it even works.  
- 
+* 🌱 **Learning:** Bridging the gap between **C++ efficiency** and **AI intelligence**, while secretly enjoying **Python's** simplicity.
+* 👨‍💻 **Projects:** Building decentralized minds with **D-Brains** and real-time tools like **LivelyLiveCaptions**. (Yes, it works on my machine).
+* 📝 **Articles:** I write about tech, AI, and programming so engaging that even my compiler reads them without errors.
 <!-- @HRITHIK-SANKAR-R -->
+
+## 📊 Languages Used
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK-SANKAR-R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
 ## 🤝 Let's Connect🌐
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=HRITHIK-SANKAR-R&label=Profile%20views&color=ff69b4&style=flat" alt="HRITHIK-SANKAR-R" /> 
