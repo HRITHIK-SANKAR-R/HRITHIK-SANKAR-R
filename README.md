@@ -2,7 +2,7 @@
 <!-- @HRITHIK-SANKAR-R -->
 - 🌱 **Learning:** Trying to make C++, Python, and AI understand me so far, Python seems to be the only one listening.  
 - 👨‍💻 **Projects:** I write code. Sometimes, it even works.  
-- 📝 **Articles:** I write about tech, AI, and programming so engaging that even my compiler reads them without errors. 👉 **Check them out on [My Substack via Linktree](YOUR_LINKTREE_URL).**  
+ 
 <!-- @HRITHIK-SANKAR-R -->
 ## 🤝 Let's Connect🌐
 <p align="left"> 
@@ -19,7 +19,7 @@
 <!-- @HRITHIK-SANKAR-R -->
 <!-- @HRITHIK-SANKAR-R -->
 <p align="center">
-  <img src="https://readme-quotes.herokuapp.com/quote?author=Linus%20Torvalds&quote=I%20like%20offending%20people%2C%20because%20I%20think%20people%20who%20get%20offended%20should%20be%20offended.&theme=dark" alt="Linus Torvalds Quote" />
+  <img src="./quote.svg" alt="Linus Torvalds Quote" />
 </p>
 <!-- @HRITHIK-SANKAR-R -->
 
