@@ -18,9 +18,9 @@
 <a href="YOUR_RSS_URL"><img src="https://img.shields.io/badge/-RSS-FFA500?style=flat&logo=rss&logoColor=white" /></a>
 </p>
 
-> *"The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data."*
+> *"I like offending people, because I think people who get offended should be offended."*
 >
-> — **Charles Babbage**
+> — **Linus Torvalds**
 
 ## 📊 GitHub Stats:
 ---
