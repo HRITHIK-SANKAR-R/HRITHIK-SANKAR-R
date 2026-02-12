@@ -30,21 +30,6 @@
 </p>
 <!-- @HRITHIK-SANKAR-R -->
 
-## 🏆 Achievements
----
-
-<p align="left">
-<a href="https://github.com/HRITHIK-SANKAR-R?tab=achievements" target="_blank">View My GitHub Achievements</a>
-</p>
-
-## 📊 GitHub Statistics
-
-<a href="https://github.com/HRITHIK-SANKAR-R">
-  <img src="https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=buefy&hide_border=true" alt="Hrithik's GitHub stats" />
-</a>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=HRITHIK-SANKAR-R&theme=darkhub&column=7" alt="Trophies" />
-
 <!-- @HRITHIK-SANKAR-R - ## 😎 My Contribution -->
 
 <p align="center">
