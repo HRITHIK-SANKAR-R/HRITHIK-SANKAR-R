@@ -19,7 +19,7 @@
 <!-- @HRITHIK-SANKAR-R -->
 <!-- @HRITHIK-SANKAR-R -->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=zeus&font=JetBrains%20Mono" alt="Linus Torvalds Quote" />
+  <img src="https://readme-quotes.herokuapp.com/quote?author=Linus%20Torvalds&quote=I%20like%20offending%20people%2C%20because%20I%20think%20people%20who%20get%20offended%20should%20be%20offended.&theme=dark" alt="Linus Torvalds Quote" />
 </p>
 <!-- @HRITHIK-SANKAR-R -->
 
