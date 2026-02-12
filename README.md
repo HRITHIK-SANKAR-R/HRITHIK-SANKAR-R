@@ -2,7 +2,6 @@
 <!-- @HRITHIK-SANKAR-R -->
 * 🌱 **Learning:** Bridging the gap between **C++ efficiency** and **AI intelligence**, while secretly enjoying **Python's** simplicity.
 * 👨‍💻 **Projects:** Building decentralized minds with **D-Brains** and real-time tools like **LivelyLiveCaptions**. (Yes, it works on my machine).
-* 📝 **Articles:** I write about tech, AI, and programming so engaging that even my compiler reads them without errors.
 <!-- @HRITHIK-SANKAR-R -->
 
 
