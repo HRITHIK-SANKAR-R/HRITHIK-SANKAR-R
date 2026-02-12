@@ -3,7 +3,7 @@
 
 * 🌱 **Learning:** Trying to make C++, Python, and AI understand me so far, Python seems to be the only one listening.
 * 🏆 **Projects:** I write code. Sometimes, it even works.
-* 📝 **Articles:** I write about tech, AI, and programming so engaging that even my compiler reads them without errors. 👉 Check them out on [My Substack via Linktree](YOUR_LINKTREE_URL).
+
 
 ## 🤝 Let's Connect 🌐
 ---
