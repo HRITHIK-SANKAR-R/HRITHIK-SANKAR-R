@@ -30,23 +30,10 @@
 <a href="https://github.com/HRITHIK-SANKAR-R?tab=achievements" target="_blank">View My GitHub Achievements</a>
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Statistics
 
-<div align="center">
-
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=HRITHIK-SANKAR-R&theme=highcontrast&hide_border=false)  
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK-SANKAR-R&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-
-
-</div>
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HRITHIK-SANKAR-R&theme=darkhub&column=7)
 
 <!-- @HRITHIK-SANKAR-R - ## 😎 My Contribution -->
 
