@@ -26,25 +26,6 @@
 </p>
 <!-- @HRITHIK-SANKAR-R -->
 
-<<<<<<< HEAD
-<!-- @HRITHIK-SANKAR-R - ## 😎 My Contribution -->
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/HRITHIK-SANKAR-R/HRITHIK-SANKAR-R/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-<!-- @HRITHIK-SANKAR-R -->
-=======
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HRITHIK-SANKAR-R&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Hrithik's Trophies" />
-  </a>
-</div>
-
-<br />
-
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <picture>
@@ -56,17 +37,5 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hrithik's Stats" />
-    </td>
-    <td width="50%" align="center">
-      <h3>💻 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK-SANKAR-R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hrithik's Top Languages" />
-    </td>
-  </tr>
-</table>
 <!-- @HRITHIK-SANKAR-R -->
->>>>>>> 369132a (I dont know what I am doing juss increasing commits bruh)
+
