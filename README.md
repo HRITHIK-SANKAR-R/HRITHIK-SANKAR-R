@@ -20,13 +20,15 @@
 </p>
 <!-- @HRITHIK-SANKAR-R -->
 <!-- @HRITHIK-SANKAR-R -->
+<h3></h3>
 <p align="center">
   <img src="./quote.svg" alt="Linus Torvalds Quote" />
 </p>
+<h3></h3>
 <!-- @HRITHIK-SANKAR-R -->
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3></h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HRITHIK-SANKAR-R/HRITHIK-SANKAR-R/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HRITHIK-SANKAR-R/HRITHIK-SANKAR-R/output/github-contribution-grid-snake.svg">
