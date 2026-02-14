@@ -34,6 +34,21 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HRITHIK-SANKAR-R/HRITHIK-SANKAR-R/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HRITHIK-SANKAR-R/HRITHIK-SANKAR-R/output/github-contribution-grid-snake.svg">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=light&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=HRITHIK-SANKAR-R&show_icons=true&theme=light&hide_border=true" alt="HRITHIK-SANKAR-R's GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK-SANKAR-R&layout=compact&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK-SANKAR-R&layout=compact&theme=light&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK-SANKAR-R&layout=compact&theme=light&hide_border=true" alt="HRITHIK-SANKAR-R's top languages">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.vercel.app/?user=HRITHIK-SANKAR-R&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.vercel.app/?user=HRITHIK-SANKAR-R&theme=light&hide_border=true">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=HRITHIK-SANKAR-R&theme=light&hide_border=true" alt="HRITHIK-SANKAR-R's streak stats">
+  </picture>
 </div>
 
 <br />
